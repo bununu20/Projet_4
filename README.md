@@ -16,6 +16,7 @@ Après installation j’ai testé les configurations Git, PHP (php -v), COMPOSER
 2-	INSTALLATION DU PROJET
 
 En exécutant la ligne de commande ci-dessous sur poweshell
+
 -	composer create-project symfony/website-skeleton musseelouvre
 Cela va me créer un nouveau projet (musseelouvre), télécharger et générer les dépendances, les répertoires et les dossiers de base dont j’ai besoin pour commencer.
 
@@ -23,6 +24,7 @@ Cela va me créer un nouveau projet (musseelouvre), télécharger et générer l
 
 Etant en mode dev il est pratique d’utiliser le serveur web PHP de Symfony.
 -	Je commence par accéder à mon projet
+
 cd musseelouvre
 -	php bin/console server :run (pour le lancer le server PHP Symfony)   
 -	http://localhost:8000/ pour lancer l’application sur un navigateur.
