@@ -4,6 +4,7 @@ Développez-un-back-end-pour-un-client
 INSTALLATION DU PROJET AVEC SYMFONY 4
 
 Ci-dessous une documentation complète de l’installation du projet Back-end du musée du Louvre : les outils utilisés, la méthode utilisée. 
+
 1-	INSTALLATION DES OUTILS AVEC POWESHELL
 J’ai commencé par installer les outils suivants :
 -	 Composer (gestionnaire de dépendances de PHP)
