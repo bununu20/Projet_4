@@ -9,6 +9,7 @@ J’ai commencé par installer les outils suivants :
 -	PHP 7.2.4 et MYSQL via WAMPSERVER 3.1.3
 -	Le gestionnaire de versions GIT (pour la gestion de version d’évolution de mes fichiers).
 Après installation j’ai testé les configurations Git, PHP (php -v), COMPOSER (composer -V).
+
 2-	INSTALLATION DU PROJET
 En exécutant la ligne de commande ci-dessous sur poweshell
 -	composer create-project symfony/website-skeleton musseelouvre
