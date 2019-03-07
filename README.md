@@ -11,7 +11,8 @@ J’ai commencé par installer les outils suivants :
 -	 Composer (gestionnaire de dépendances de PHP)
 -	PHP 7.2.4 et MYSQL via WAMPSERVER 3.1.3
 -	Le gestionnaire de versions GIT (pour la gestion de version d’évolution de mes fichiers).
-Après installation j’ai testé les configurations Git, PHP (php -v), COMPOSER (composer -V).
+
+Après installation je teste les configurations Git, PHP (php -v), COMPOSER (composer -V).
 
 2-	INSTALLATION DU PROJET
 
